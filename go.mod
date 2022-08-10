@@ -1,4 +1,4 @@
-module github.com/Timmith/s3up@fix-windows
+module github.com/Timmith/s3up
 
 go 1.13
 
